@@ -97,6 +97,7 @@ Some things I would like to add as I continue developing the project:
 
 * Save URLs to a database
 * Persist URLs between program runs
+* Custom short URLs as an option
 * Add expiration dates for shortened URLs
 * Improve URL validation
 * Add a web interface
